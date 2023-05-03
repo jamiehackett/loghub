@@ -1918,4 +1918,3 @@ Jul 27 14:41:57 combo kernel: On node 0 totalpages: 32430
 Jul 27 14:41:57 combo kernel: Kernel command line: ro root=LABEL=/ rhgb quiet
 Jul 27 14:41:57 combo kernel: mapped 4G/4G trampoline to ffff3000.
 Jul 27 14:41:57 combo kernel: Initializing CPU#0
-Jul 27 14:41:57 combo kernel: Detected 731.219 MHz processor.
