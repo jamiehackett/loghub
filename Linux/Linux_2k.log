@@ -1905,7 +1905,6 @@ Jul 27 04:21:40 combo su(pam_unix)[31373]: session closed for user news
 Jul 27 10:59:53 combo ftpd[31985]: connection from 218.38.58.3 () at Wed Jul 27 10:59:53 2005 
 Jul 27 14:41:57 combo syslogd 1.4.1: restart.
 Jul 27 14:41:57 combo syslog: syslogd startup succeeded
-Jul 27 14:41:57 combo kernel: Linux version 2.6.5-1.358 (bhcompile@bugs.build.redhat.com) (gcc version 3.3.3 20040412 (Red Hat Linux 3.3.3-7)) #1 Sat May 8 09:04:50 EDT 2004
 Jul 27 14:41:57 combo kernel: BIOS-provided physical RAM map:
 Jul 27 14:41:57 combo kernel:  BIOS-e820: 0000000000000000 - 00000000000a0000 (usable)
 Jul 27 14:41:57 combo kernel:  BIOS-e820: 00000000000f0000 - 0000000000100000 (reserved)
