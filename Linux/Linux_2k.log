@@ -1745,8 +1745,6 @@ Jul 24 02:38:22 combo ftpd[16777]: connection from 84.102.20.2 () at Sun Jul 24 
 Jul 24 02:38:22 combo ftpd[16791]: connection from 84.102.20.2 () at Sun Jul 24 02:38:22 2005 
 Jul 24 02:38:22 combo ftpd[16793]: connection from 84.102.20.2 () at Sun Jul 24 02:38:22 2005 
 Jul 24 02:38:22 combo ftpd[16794]: connection from 84.102.20.2 () at Sun Jul 24 02:38:22 2005 
-Jul 24 02:38:23 combo ftpd[16781]: ANONYMOUS FTP LOGIN FROM 84.102.20.2,  (anonymous)
-Jul 24 02:38:23 combo ftpd[16782]: ANONYMOUS FTP LOGIN FROM 84.102.20.2,  (anonymous)
 Jul 24 04:20:19 combo su(pam_unix)[17283]: session opened for user cyrus by (uid=0)
 Jul 24 04:20:19 combo su(pam_unix)[17283]: session closed for user cyrus
 Jul 24 04:20:21 combo cups: cupsd shutdown succeeded
