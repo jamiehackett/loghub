@@ -1915,7 +1915,6 @@ Jul 27 14:41:57 combo kernel: 126MB LOWMEM available.
 Jul 27 14:41:57 combo kernel: zapping low mappings.
 Jul 27 14:41:57 combo syslog: klogd startup succeeded
 Jul 27 14:41:57 combo kernel: On node 0 totalpages: 32430
-Jul 27 14:41:57 combo kernel:   Normal zone: 28334 pages, LIFO batch:6
 Jul 27 14:41:57 combo irqbalance: irqbalance startup succeeded
 Jul 27 14:41:57 combo kernel:   HighMem zone: 0 pages, LIFO batch:1
 Jul 27 14:41:57 combo kernel: DMI 2.3 present.
