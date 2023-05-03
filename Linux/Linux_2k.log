@@ -1918,7 +1918,6 @@ Jul 27 14:41:57 combo kernel: On node 0 totalpages: 32430
 Jul 27 14:41:57 combo kernel: Kernel command line: ro root=LABEL=/ rhgb quiet
 Jul 27 14:41:57 combo kernel: mapped 4G/4G trampoline to ffff3000.
 Jul 27 14:41:57 combo kernel: Initializing CPU#0
-Jul 27 14:41:57 combo kernel: CPU 0 irqstacks, hard=02345000 soft=02344000
 Jul 27 14:41:57 combo portmap: portmap startup succeeded
 Jul 27 14:41:57 combo kernel: PID hash table entries: 512 (order 9: 4096 bytes)
 Jul 27 14:41:57 combo kernel: Detected 731.219 MHz processor.
