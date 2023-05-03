@@ -1915,7 +1915,6 @@ Jul 27 14:41:57 combo kernel: 126MB LOWMEM available.
 Jul 27 14:41:57 combo kernel: zapping low mappings.
 Jul 27 14:41:57 combo syslog: klogd startup succeeded
 Jul 27 14:41:57 combo kernel: On node 0 totalpages: 32430
-Jul 27 14:41:57 combo kernel: DMI 2.3 present.
 Jul 27 14:41:57 combo kernel: ACPI disabled because your bios is from 2000 and too old
 Jul 27 14:41:57 combo kernel: You can enable it with acpi=force
 Jul 27 14:41:57 combo kernel: Built 1 zonelists
